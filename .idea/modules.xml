@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JPush.iml" filepath="$PROJECT_DIR$/JPush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myjgpush/myjgpush.iml" filepath="$PROJECT_DIR$/myjgpush/myjgpush.iml" />
+    </modules>
+  </component>
+</project>
